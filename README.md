@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there, I'm Amitesh 👋
+I love statistics, programming and data science
 
 <!--
 **Amitesh31/Amitesh31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
