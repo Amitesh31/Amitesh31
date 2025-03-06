@@ -1,6 +1,10 @@
-### Hi there, I'm Amitesh 👋
-I love statistics, programming and data science
-- 📫 How to reach me **amiteshrpatil@gmail.com**
+### 
+I’m a Data Scientist passionate about turning data into actionable insights. My work spans machine learning, deep learning, and statistical modeling, with projects focused on predictive analytics, remote sensing, and data visualization.
+
+Beyond data, I’m a huge football fan — both on the field and in the spreadsheets. I love diving into sports analytics and using statistics to uncover hidden patterns, whether it’s predicting match outcomes or analyzing player performance.
+
+Explore my projects and feel free to connect — always open to discussing data science, football strategies, or the magic where both worlds collide!
+Reach me @ amiteshrpatil@gmail.com
 
 <!--
 **Amitesh31/Amitesh31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
