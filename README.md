@@ -1,10 +1,12 @@
 ### 
-I’m a Data Scientist passionate about turning data into actionable insights. My work spans machine learning, deep learning, and statistical modeling, with projects focused on predictive analytics, remote sensing, and data visualization.
+I’m Amitesh Patil — a Data Scientist and Master’s student in Computer Science at NC State University, specializing in Data Science.
 
-Beyond data, I’m a huge football fan — both on the field and in the spreadsheets. I love diving into sports analytics and using statistics to uncover hidden patterns, whether it’s predicting match outcomes or analyzing player performance.
+I’m passionate about transforming data into impactful insights and solving complex problems using data analysis, visualization, machine learning, and deep learning. With hands-on experience in Python, SQL, and Tableau, I build predictive models, design AI solutions, and craft interactive dashboards to drive data-driven decisions.
 
-Explore my projects and feel free to connect — always open to discussing data science, football strategies, or the magic where both worlds collide!
-Reach me @ amiteshrpatil@gmail.com
+Beyond data science, I’m a football enthusiast — both on the field and in the spreadsheets. I love exploring sports analytics — uncovering patterns, predicting match outcomes, and analyzing player performance through statistics.
+
+Feel free to explore my projects and connect — I’m always open to discussing data science, football strategies, and the fascinating space where both worlds collide!
+📧 Reach me at: amiteshrpatil@gmail.com
 
 <!--
 **Amitesh31/Amitesh31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
